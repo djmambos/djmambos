@@ -1,3 +1,8 @@
+[![Linkedin](https://img.shields.io/badge/Alexander%20Semenovskiy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/semenovskiy-alexander/)
+
+![](https://komarev.com/ghpvc/?username=joiq&style=flat&color=brightgreen)
+[![Github](https://img.shields.io/badge/-joiq-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/joiq)
+
 <p align="center"><img src="https://user-images.githubusercontent.com/29413207/133943202-3d5e317c-e31b-4b42-8c2a-9c35213c5947.gif"></p>
 
 <!--
