@@ -3,7 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=joiq&style=flat&color=brightgreen)
 [![Github](https://img.shields.io/badge/-joiq-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/joiq)
 
-<p align="center"><img src="https://user-images.githubusercontent.com/29413207/133943202-3d5e317c-e31b-4b42-8c2a-9c35213c5947.gif"></p>
 
 <!--
 **joiq/joiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
