@@ -1,6 +1,5 @@
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/Alexander%20Semenovskiy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/semenovskiy-alexander/)
-[![Codewars](https://www.codewars.com/users/joiq/badges/micro)](https://www.codewars.com/users/joiq)
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=joiq&style=flat)
