@@ -1,6 +1,4 @@
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/Alexander%20Semenovskiy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/semenovskiy-alexander/)
-
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=djmambos&style=flat)
 [![Github](https://img.shields.io/badge/-djmambos-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/djmambos)
