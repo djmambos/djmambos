@@ -1,4 +1,4 @@
-<img width="100%" alt="Developer Illustration" src="https://github.com/djmambos/djmambos/blob/main/Gif.gif"/>
+<img width="100%" alt="Developer Illustration" src="https://github.com/djmambos/djmambos/blob/main/silentgif.gif"/>
 <br />
 <br />
 
