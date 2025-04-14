@@ -1,7 +1,3 @@
-<img width="50%" alt="Developer Illustration" src="https://github.com/djmambos/djmambos/blob/main/silentgif.gif"/>
-<br />
-<br />
-
 <!-- Your badges -->
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=djmambos&style=flat)
